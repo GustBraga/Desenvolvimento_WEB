@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+
+#div1{
+    text-align: center;
+    background-color: rgb(160, 152, 141);
+    width: auto;
+    height: 100px;
+    padding-top: 100px;
+}
+
+button{
+    width: 10%;
+}
+
+h1{
+    text-align: center;
+}
